@@ -1,6 +1,6 @@
-## Programming for Data Analysis project 2018
+# Programming for Data Analysis project 2018
 
-#### Patrick McDonald G00281051
+## Patrick McDonald G00281051
 
 #### This GitHub repository contains my assignment in a Jupyter Notebook file.
 
